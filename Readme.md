@@ -1,4 +1,4 @@
-# Lab 5 - *Github Sercher*
+# Lab 5 - *Github Search*
 
 **Github Sercher** is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
 
